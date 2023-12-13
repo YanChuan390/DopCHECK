@@ -33,7 +33,11 @@ Below we describe each main file in our folder below.
 
 ### DPC_ontology_extraction
 ```Privacy changes in Android 10_Android Developers.html```: Android 10 privacy change documentation.
+
 ```extract_DPC.py```: Running this file can extract the DPC from the Android 10 privacy change documentation, then analyze its entities and identify the subsumptive relationships between these entities. The results are printed on the console for easy display."
+
+### Initial app interface
+![](./Initial app interface.png)
 
 
 
