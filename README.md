@@ -37,7 +37,8 @@ Below we describe each main file in our folder below.
 ```extract_DPC.py```: Running this file can extract the DPC from the Android 10 privacy change documentation, then analyze its entities and identify the subsumptive relationships between these entities. The results are printed on the console for easy display."
 
 ### Initial app interface
-![image](https://github.com/YanChuan390/DopCHECK/blob/main/Initial%20app%20interface.png)
+<!-- ![image](https://github.com/YanChuan390/DopCHECK/blob/main/Initial%20app%20interface.png) -->
+<img src="https://img-blog.csdnimg.cn/2020102116384135.png" width="100px">
 
 
 
