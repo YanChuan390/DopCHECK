@@ -38,7 +38,7 @@ Below we describe each main file in our folder below.
 
 ### Initial app interface
 <!-- ![image](https://github.com/YanChuan390/DopCHECK/blob/main/Initial%20app%20interface.png) -->
-<img src="https://img-blog.csdnimg.cn/2020102116384135.png" width="100px">
+<img src="https://github.com/YanChuan390/DopCHECK/blob/main/Initial%20app%20interface.png" width="400px">
 
 
 
